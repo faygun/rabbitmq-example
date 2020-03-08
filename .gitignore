@@ -352,7 +352,5 @@ MigrationBackup/
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
 /RabbitMQ_Example/Properties
-*.csproj
-/StandartQueue/Properties
-*.sln
-/Common/Properties
+*/Properties
+

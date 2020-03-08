@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Standat_Query", "Standat_Query", "{D5F11478-4D60-4E9E-9EB1-AF9992C014B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StandartQueue", "StandartQueue\StandartQueue.csproj", "{DB91988D-6093-4CAC-9E9D-174A726A4A16}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common", "Common\Common.csproj", "{B0698A17-E806-470B-9846-1351E92E1DA8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB91988D-6093-4CAC-9E9D-174A726A4A16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB91988D-6093-4CAC-9E9D-174A726A4A16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB91988D-6093-4CAC-9E9D-174A726A4A16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB91988D-6093-4CAC-9E9D-174A726A4A16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0698A17-E806-470B-9846-1351E92E1DA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0698A17-E806-470B-9846-1351E92E1DA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0698A17-E806-470B-9846-1351E92E1DA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0698A17-E806-470B-9846-1351E92E1DA8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{DB91988D-6093-4CAC-9E9D-174A726A4A16} = {D5F11478-4D60-4E9E-9EB1-AF9992C014B2}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FF8D7A6C-DDC3-4EEC-A513-5AD898886436}
+	EndGlobalSection
+EndGlobal
